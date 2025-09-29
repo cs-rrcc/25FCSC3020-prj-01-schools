@@ -141,7 +141,7 @@ Commit and push your project using "final submission" as the commit message. Add
 
 # Team Evaluation 
 
-Students should use this [form](https://forms.office.com/r/Gg9irdANsB) to evaluate their team members and complete a self-evaluation. This is a mandatory requirement, and the team's grade will be placed on hold until all members have submitted their evaluations.
+Students will receive a form to evaluate their team members and complete a self-evaluation. This is a mandatory requirement, and the team's grade will be placed on hold until all members have submitted their evaluations.
 
 # Rubric 
 
